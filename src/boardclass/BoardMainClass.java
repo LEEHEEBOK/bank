@@ -4,6 +4,7 @@ public class BoardMainClass {
 
 	public static void main(String[] args) {
 		
+		
 		BoardClass board = new BoardClass();
 		board.bNumber =10;
 		board.bTitle = "제목";

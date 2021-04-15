@@ -9,7 +9,7 @@ public class BoardClass {
 	BoardClass() {
 
 	}
-
+//글번호, 글제목, 작성자, 내용을 매개변수로 하며 전달받은 매개변수값을 필드에 저장
 	void boardWrite(int bNumber, String bTitle, String bWriter, String bContents) {
 		this.bNumber =bNumber;
 		this.bTitle = bTitle;
