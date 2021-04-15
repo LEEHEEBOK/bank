@@ -13,7 +13,7 @@ public class MemberMain {
 		m2.update("하이");
 		
 		System.out.println("----Member construtor----");
-		System.out.println(m2.myname());
+		System.out.println();
 		
 		
 	
