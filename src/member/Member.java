@@ -11,7 +11,7 @@ public class Member {
 	//기본생성자
 	//생성자이름 : 클래스 이름과 동일함
 	Member(){
-		
+		System.out.println("----Member construtor----");
 	}
 	
 	//모든 필드를 매개변수로 하는 생성자
