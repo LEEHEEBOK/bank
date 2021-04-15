@@ -16,7 +16,7 @@ public class BoardMainClass {
 		board.boardview();
 		
 		board.boardUpdate("제목3", "내용3");
-		board.boardview();
+		board.boardview(); 
 	}
 
 }
