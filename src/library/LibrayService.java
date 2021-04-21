@@ -61,4 +61,13 @@ public class LibrayService {
 			System.out.println(ClientList.get(i));
 		}
 	}
+	//게시판.
+		/*
+		 * CRUD
+		 * -Create
+		 * -Read
+		 * -Update
+		 * -Delete
+		 * */
 }
+
